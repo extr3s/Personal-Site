@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/700-dylan/momentos-diario/000-diario-dylan-momentos/","dgEnableSearch":false}
 ---
 
-
+cssclass: cards
 Indice de momentos..
 
 ## Indice
@@ -16,7 +16,8 @@ Indice de momentos..
 | Tio       | 27/11/2022 | Temática:Navidad  | Dylan:⭐          | Papas:⭐          |
 | Hallowen  | 31/10/2022 | Temática:Hallowen | Dylan:⭐          | Papas:⭐          |
 
-| embed(link(imagen, "50"))                                              | title                                                                                     | fecha      | Temática          | puntuación_Dylan | Puntuación_Papas |
+
+| Imagen                                                                 | title                                                                                     | fecha      | Temática          | puntuación_Dylan | Puntuación_Papas |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------- | ----------------- | ---------------- | ---------------- |
 | ![[700 - 🙎‍♂️ DYLAN/Momentos - Diario/ANEXOS/luminalia (00).png\|50]] | [[700 - 🙎‍♂️ DYLAN/Momentos - Diario/04-12-2023 Lumágica\|04-12-2023 Lumágica]]       | 04/12/2022 | Temática:Navidad  | Dylan:⭐          | Papas:⭐          |
 | ![[700 - 🙎‍♂️ DYLAN/Momentos - Diario/ANEXOS/Granja (00).png\|50]]    | [[700 - 🙎‍♂️ DYLAN/Momentos - Diario/10-10-2021 Granja\|10-10-2021 Granja]]           | 04/12/2022 | Temática:Granja   | Dylan:⭐          | Papas:⭐          |
