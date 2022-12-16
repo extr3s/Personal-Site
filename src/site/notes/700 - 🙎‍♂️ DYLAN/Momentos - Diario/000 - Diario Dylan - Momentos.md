@@ -7,7 +7,7 @@ Indice de momentos..
 
 ## Indice
 
-| COVER                                                                  | title                                                                                     | fecha      | Temática          | puntuación_Dylan | Puntuación_Papas |
+| embed(link(imagen, "50"))                                              | title                                                                                     | fecha      | Temática          | puntuación_Dylan | Puntuación_Papas |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------- | ----------------- | ---------------- | ---------------- |
 | ![[700 - 🙎‍♂️ DYLAN/Momentos - Diario/ANEXOS/luminalia (00).png\|50]] | [[700 - 🙎‍♂️ DYLAN/Momentos - Diario/04-12-2023 Lumágica\|04-12-2023 Lumágica]]       | 04/12/2022 | Temática:Navidad  | Dylan:⭐          | Papas:⭐          |
 | ![[700 - 🙎‍♂️ DYLAN/Momentos - Diario/ANEXOS/Granja (00).png\|50]]    | [[700 - 🙎‍♂️ DYLAN/Momentos - Diario/10-10-2021 Granja\|10-10-2021 Granja]]           | 04/12/2022 | Temática:Granja   | Dylan:⭐          | Papas:⭐          |
